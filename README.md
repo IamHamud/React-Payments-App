@@ -76,7 +76,7 @@ URL: https://api.sandbox.checkout.com/payments
 Headers:
 {
   "Content-Type": "application/json",
-  "Authorization": "Bearer sk_sbox_lei5qqhab44wj2pbwwvbye7zqq#"
+  "Authorization": "Bearer sk_sbox_lxxxxxxxxxxxxxxxxxxxxx#"
 }
 
  Body: (JSON)
@@ -91,7 +91,7 @@ Headers:
   "amount": 1000,
   "currency": "USD",
   "reference": "TEST_ACCEPTED_PAYMENT_12345",
-  "processing_channel_id": "pc_67qkbvp2zyvuxa76hq4m72oehe"
+  "processing_channel_id": "pc_xxxxxxxxxxxxxxxxx"
 }
 
 ### For Testing Through LocalHost3000 🖥️ 📊
@@ -110,7 +110,7 @@ Body:
   "url": "https://api.sandbox.checkout.com/payments",
   "headers": {
     "Content-Type": "application/json",
-    "Authorization": "Bearer sk_sbox_lei5qqhab44wj2pbwwvbye7zqq#"
+    "Authorization": "Bearer sk_sbox_xxxxxxxxxxq#"
   },
   "data": {
     "source": {
@@ -123,7 +123,7 @@ Body:
     "amount": 1000,
     "currency": "USD",
     "reference": "TEST_ACCEPTED_PAYMENT_12345",
-    "processing_channel_id": "pc_67qkbvp2zyvuxa76hq4m72oehe"
+    "processing_channel_id": "pc_xxxxxxxxxxe"
   }
 }
 ### Ad Tracking 📈
@@ -147,10 +147,10 @@ Body:
 Security 🔒
 Secret API Key: BEARER YOUR_SECRET_KEY_HERE
 Contact 📞
-For queries or contributions, please contact us at Hamud313@gmail.com.
+For queries or contributions, please contact us at IamHamuud@gmail.com.
 
 GitHub: IamHamud
 Acknowledgments 🙏
 Special thanks to all contributors and the open-source libraries that made this project possible.
 
-## webhook site: https://webhook.site/#!/242396ef-315a-47a1-9847-e95533bf8a6a/2f4deba7-cf12-42b2-856c-a792af065ad1/1
+## webhook site: https://webhook.site/#!/
