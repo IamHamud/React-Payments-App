@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "apexcharts": "^3.41.1",
+    "axios": "^1.5.1",
+    "chart.js": "^4.3.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^5.9.0",
+    "mysql2": "^3.6.0",
+    "node-fetch": "^2.6.12",
+    "react-apexcharts": "^1.4.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-router-dom": "^6.15.0",
+    "uuid": "^9.0.0"
+  }
+}
