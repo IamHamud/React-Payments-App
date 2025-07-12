@@ -2,7 +2,7 @@
 
 ## Brief Description 📝
 
-This project serves as a robust backend solution that allows merchants to bypass CORS restrictions for testing payment APIs. It features real-time updates for payments and ad tracking stats, making it an invaluable tool for e-commerce platforms.
+This is a payments Dashboard serves as a robust backend solution that allows merchants to bypass CORS restrictions for testing payment APIs. It features real-time updates for payments and ad tracking stats, making it an invaluable tool for e-commerce platforms.
 
 ## Features ✨
 
