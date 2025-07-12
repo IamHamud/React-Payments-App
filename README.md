@@ -1,4 +1,4 @@
-# CheckoutTestPayment 🛒💳
+# Payments Dashboard Integrated with Checkout.com API's 🛒💳
 
 ## Brief Description 📝
 
